@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Information</title>
+    <link rel="icon" href="/assets/images/hammer.png">
+    <link rel="stylesheet" href="info.css">
+</head>
+<body>
+        <div class="intro">
+            <h2>Instructions:</h2>
+            <ul>
+                <li>Whack as many moles as possible in the given time constraint.</li>
+                <li>Choose from one of the difficulty levels.</li>
+                <li>For whacking each mole, you will be awarded 10 points.</li>
+                <li>You will be given 3 lives.</li>
+                <li>If you click on the wrong hole, one life will be deducted, and if all three lives are gone, you will lose and be redirected to the result page.</li>
+                <li>Also, be aware of the bombs; if you whack any one of them again, the game will be over, and you will be redirected to the result page.</li>
+                <li>You can also change the game setting while playing the game.</li>
+            </ul>
+        </div>
+        <div class="form">
+            <form>
+                <label for="username" >Enter Username:</label>
+                <input type="text" id="username" name="username" required>
+
+                <label for="nickname">Enter Nickname:</label>
+                <input type="text" id="nickname" name="nickname" required>
+
+                <label for="difficulty">DIFFICULTY:</label>
+                <select id="difficulty" name="difficulty" required>
+                    <option value="easy">Easy</option>
+                    <option value="medium">Medium</option>
+                    <option value="hard">Hard</option>
+                </select>
+            </form>
+        </div>
+    <div>
+        <button id="play" onclick="playGame()">PLAY</button>
+    </div>
+    <div id="github">
+        <img src="" alt="">
+    </div>
+    <script src="/info/info.js"></script>
+</body>
+</html>

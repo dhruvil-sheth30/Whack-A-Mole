@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@font-face {
+  font-family: "Titan One";
+  src: url("./TitanOne-Regular.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  cursor: url('https://github.com/mitri-dvp/JavaScript-Whack-A-Mole/blob/master/css/hammer2.png?raw=true') 30 30, auto;
+}
+
+body {
+  position: relative;
+  background: url('/assets/images/gamebg.jpg');
+  min-height: 100vh;
+  max-height: 100vh;
+  display: grid;
+  align-items: center;
+  align-content: center;
+  overflow: hidden;
+}
+
+.container {
+  margin: auto;
+  width: min-content;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+}
+
+.view {
+  display: grid;
+  gap: 1rem;
+  transform: translateX(-2.5rem);
+}
+
+.view main > div {
+  cursor: pointer, auto;
+}
+
+.view .controls {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+}
+
+.view .start {
+  cursor: pointer;
+}
+
+.view .controls > div {
+  color: #fff;
+  text-shadow: 0px 0px 4px #000;
+  font-size: 2rem;
+  font-weight: 400;
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #00000055;
+  border: 3px solid #111;
+}
+
+.view .controls .time,
+.view .controls .score {
+  position: relative;
+}
+
+.view .controls .time p,
+.view .controls .score p {
+  position: absolute;
+  left: 50%;
+  top: -30%;
+  transform: translateX(-50%);
+  font-size: 1.5rem;
+}
+
+main {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0.25rem;
+}
+
+main > div {
+  width: 10rem;
+  height: 10rem;
+}
+
+.hole {
+  background: #00000055;
+  border-radius: 5px;
+  border: 3px solid #111;
+  position: relative;
+  overflow: hidden;
+}
+
+.mole {
+  background-image: url('/assets/images/mole.png');
+  position: relative;
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: all 0.5s;
+  transition-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
+  top: 100%;
+}
+
+.up .mole {
+  top: 10%;
+}
+
+.hole img {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+  top: 37%;
+}
+
+.health {
+  border: 2px solid #111;
+  border-radius: 5px;
+  margin-right: 1rem;
+  overflow: hidden;
+}
+
+.health-img {
+  padding: 10px;
+  height: 80px;
+  width: 70px;
+}
+
+.vol-img {
+  height: 89px;
+  width: 85px;
+  border: 2px solid #111;
+  border-radius: 5px;
+}
+
+.lower {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 900px) {
+  .view {
+    transform: translateX(0);
+  }
+}
