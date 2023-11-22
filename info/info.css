@@ -115,7 +115,7 @@ li {
 
         height: 320px;
         width: 359px;
-        top: 2vh; 
+        top: 2vh; /* Adjusted top position to move it higher */
     }
 
     li{

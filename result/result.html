@@ -3,12 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Over</title>
+    <link rel="stylesheet" href="/result/result.css">
     <link rel="icon" href="/assets/images/hammer.png">
-    <link rel="stylesheet" href="result.css">
-    <title>Result</title>
 </head>
 <body>
-    
+    <div class="game-over-container">
+        <h1>Game Over</h1>
+        <p class="message" id="message">Well played, username!</p>
+        <p>Your Score: <span id="userScore">0</span></p>
+        <p>Highest Score: <span id="highestScore">0</span></p>
+        <button class="play-again" onclick="playAgain()">Play Again</button>
+    </div>
+    <script src="/result/result.js"></script>
 </body>
-<script src="/result/result.js"></script>
 </html>
