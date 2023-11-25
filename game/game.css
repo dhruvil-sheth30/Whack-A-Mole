@@ -1,9 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-@font-face {
-  font-family: "Titan One";
-  src: url("./TitanOne-Regular.ttf");
-}
-
 * {
   margin: 0;
   padding: 0;
@@ -37,7 +31,7 @@ body {
 }
 
 .view main > div {
-  cursor: pointer, auto;
+  cursor: pointer;
 }
 
 .view .controls {
@@ -99,8 +93,8 @@ main > div {
 .mole {
   background-image: url('/assets/images/mole.png');
   position: relative;
-  height: 100%;
-  width: 100%;
+  height: 100%; 
+  width: 100%;  
   margin: auto;
   background-size: contain;
   background-repeat: no-repeat;
@@ -113,7 +107,6 @@ main > div {
 .up .mole {
   top: 10%;
 }
-
 .hole img {
   position: absolute;
   bottom: 0;
@@ -149,7 +142,7 @@ main > div {
   justify-content: center;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 600px) {
   .view {
     transform: translateX(0);
   }

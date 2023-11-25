@@ -14,25 +14,25 @@
                 <li>Whack as many moles as possible in the given time constraint.</li>
                 <li>Choose from one of the difficulty levels.</li>
                 <li>For whacking each mole, you will be awarded 10 points.</li>
-                <li>You will be given 3 lives.</li>
+                <li>You will be given 5 lives.</li>
                 <li>If you click on the wrong hole, one life will be deducted, and if all three lives are gone, you will lose and be redirected to the result page.</li>
-                <li>Also, be aware of the bombs; if you whack any one of them again, the game will be over, and you will be redirected to the result page.</li>
-                <li>You can also change the game setting while playing the game.</li>
+                <li>Also be aware of not whacking a mole twice because if you do one health would be deducted.</li>
+                <li>You can also change the audio setting while playing the game.</li>
             </ul>
         </div>
         <div class="form">
             <form>
                 <label for="username" >Enter Username:</label>
-                <input type="text" id="username" name="username" required>
+                <input type="text" id="username" name="username" >
 
                 <label for="nickname">Enter Nickname:</label>
-                <input type="text" id="nickname" name="nickname" required>
+                <input type="text" id="nickname" name="nickname" >
 
                 <label for="difficulty">DIFFICULTY:</label>
-                <select id="difficulty" name="difficulty" required>
-                    <option value="easy">Easy</option>
-                    <option value="medium">Medium</option>
-                    <option value="hard">Hard</option>
+                <select id="difficulty" name="difficulty">
+                    <option value="easy">Easy (Time-60s)</option>
+                    <option value="medium">Medium (Time-45s)</option>
+                    <option value="hard">Hard (Time-30s)</option>
                 </select>
             </form>
         </div>

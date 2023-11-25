@@ -26,7 +26,6 @@ body {
     left: 300px;
     width: 210px;
     height: 256.016px;
-    /* z-index: -1; */
 }
 
 
@@ -54,6 +53,7 @@ h1 {
 
 
 #start {
+    cursor: pointer;
     width: 395px;
     height: 125px;
     border-radius: 90px;

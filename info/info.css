@@ -41,7 +41,6 @@ body {
 }
 
 .form label {
-    padding-top: 30px;
     color: #000;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
@@ -50,11 +49,11 @@ body {
 }
 
 input, select {
+    padding-left: 10px;
     width: 318px;
     height: 37px;
     flex-shrink: 0;
     margin: 5px 20px;
-    padding: 8px;
     background: #CE8A8A;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -115,7 +114,7 @@ li {
 
         height: 320px;
         width: 359px;
-        top: 2vh; /* Adjusted top position to move it higher */
+        top: 2vh; 
     }
 
     li{

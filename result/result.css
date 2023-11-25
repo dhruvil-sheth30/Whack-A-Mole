@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 body {
+    background-image: url('/assets/images/gamebg.jpg');
     font-family: 'Open Sans', sans-serif;
     margin: 0;
     padding: 0;
@@ -8,12 +9,15 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #282c34;
-    color: #61dafb;
+    color: #FF6C22;
 }
 
 .game-over-container {
+    padding: 20px;
     text-align: center;
+    background-color: #282c34b3;
+    border-radius: 5px;
+    border: 2px solid black;
 }
 
 h1 {
