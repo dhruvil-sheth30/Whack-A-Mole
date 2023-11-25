@@ -30,9 +30,6 @@ body {
   transform: translateX(-2.5rem);
 }
 
-.view main > div {
-  cursor: pointer;
-}
 
 .view .controls {
   display: grid;

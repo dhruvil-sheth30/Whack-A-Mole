@@ -54,9 +54,6 @@ function toggleMute() {
 // Function to initialize the game when the start button is clicked
 function startTime() {
     if (!started) {
-        // Set up background music and initialize game variables
-        background.currentTime = 0;
-        background.play();
         score = 0;
         health = 5;
         counter.textContent = '0';
@@ -79,9 +76,8 @@ function startTime() {
                 timeUp = true;
                 started = false;
                 background.pause();
-                setTimeout(() => {
-                    scoreboardUpdater();
-                }, 1000);
+                scoreboardUpdater();
+                
             }
         }, 1000);
     }
@@ -128,9 +124,7 @@ function updateHealth() {
         timeUp = true;
         started = false;
         background.pause();
-        setTimeout(() => {
-            scoreboardUpdater();
-        }, 1000);
+        scoreboardUpdater();
     }
 }
 
