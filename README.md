@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to Whack-a-Mole, a digital rendition of the classic arcade game! This project is part of my Front-End Engineering and Development (FEWD) Course Assignment 2 at MIT-ADT Pune. The motivation behind creating this game stems from my fond memories of playing Whack-a-Mole as a favorite arcade game during my childhood.
+Welcome to Whack-a-Mole, a digital rendition of the classic arcade game! This project is part of my Front-End Engineering and Development (FEWD) Continuous Assignment 2 at MIT-ADT Pune. The motivation behind creating this game stems from my fond memories of playing Whack-a-Mole as a favorite arcade game during my childhood.
 
 ## Screens
 
@@ -34,19 +34,19 @@ The game concludes, displaying your final score and the highest score achieved. 
 
 ## Why This Project?
 
-Recreating Whack-a-Mole allowed me to apply and enhance my skills in front-end development. It's a tribute to the joyous memories associated with the classic arcade game and a fun challenge to bring it into the digital realm.
+Recreating Whack-a-Mole allowed me to apply and enhance my skills in front-end development, and refresh the childhood memories.
 
 ## References
 
-- **YouTube Video:** [Title of the Video](https://www.youtube.com/watch?v=example)
-- **Git Repository:** [Link to the Repository](https://github.com/example/repository)
+- **YouTube Video:** [Title of the Video]([https://www.youtube.com/watch?v=example](https://youtu.be/D9ZfzXaCPuI?si=Vg48zeqxuN8Kh6dv))
+- **Git Repository:** [Link to the Repository]([https://github.com/example/repository](https://github.com/mart-anthony-stark/Whack-A-Mole))
 - **Audio Credits:** Background music sourced from [Pixabay](https://pixabay.com/)
 - **Image Credits:** Images obtained through simple Google searches.
 - **Icon Credits:** Icons sourced from [Flaticon](https://www.flaticon.com/)
 
 ## Acknowledgments
 
-Special thanks to [Figma](https://www.figma.com/) for aiding in code extension and [Geeks for Geeks](https://www.geeksforgeeks.org/) for providing valuable insights into essential concepts.
+Special thanks to [Figma](https://www.figma.com/) for aiding in my css code extension and [Geeks for Geeks](https://www.geeksforgeeks.org/) for providing valuable insights into essential concepts.
 
 ---
 
