@@ -39,8 +39,8 @@ Recreating Whack-a-Mole allowed me to apply and enhance my front-end development
 
 ## References
 
-- **YouTube Video:** [Title of the Video]([https://www.youtube.com/watch?v=example](https://youtu.be/D9ZfzXaCPuI?si=Vg48zeqxuN8Kh6dv))
-- **Git Repository:** [Link to the Repository]([https://github.com/example/repository](https://github.com/mart-anthony-stark/Whack-A-Mole))
+- **YouTube Video:** [Title of the Video](https://youtu.be/D9ZfzXaCPuI?si=Vg48zeqxuN8Kh6dv)
+- **Git Repository:** [Link to the Repository](https://github.com/mart-anthony-stark/Whack-A-Mole)
 - **Audio Credits:** Background music sourced from [Pixabay](https://pixabay.com/)
 - **Image Credits:** Images obtained through simple Google searches.
 - **Icon Credits:** Icons sourced from [Flaticon](https://www.flaticon.com/)
