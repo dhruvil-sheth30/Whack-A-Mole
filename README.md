@@ -12,7 +12,7 @@ Welcome to Whack-a-Mole, a digital rendition of the classic arcade game! This pr
 
 This screen introduces the game with its logo and provides information about the creator.
 
-### Screen 2: Instructions and User Info Form![Uploading Screenshot 2023-11-01 092908.png…]()
+### Screen 2: Instructions and User Info Form
 
 
 <img width="1280" alt="Screenshot 2023-11-25 092907" src="https://github.com/dhruvil-sheth30/Whack-A-Mole/assets/140916941/18107501-52e8-467f-854f-7b11ef90033f">
