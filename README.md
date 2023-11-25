@@ -14,19 +14,21 @@ This screen introduces the game with its logo and provides information about the
 
 ### Screen 2: Instructions and User Info Form
 
-![Instructions and User Info Form](/path/to/screen2.png)
+<img width="1280" alt="Screenshot 2023-11-25 092907" src="https://github.com/dhruvil-sheth30/Whack-A-Mole/assets/140916941/18107501-52e8-467f-854f-7b11ef90033f">
+
 
 Here, players receive instructions on how to play the game and are prompted to fill in their username, nickname, and choose the difficulty level.
 
 ### Screen 3: Gameplay
 
-![Gameplay](/path/to/screen3.png)
+<img width="1280" alt="Screenshot 2023-11-25 092920" src="https://github.com/dhruvil-sheth30/Whack-A-Mole/assets/140916941/4136516f-7d0e-4ca6-a52c-df91c1c69f4c">
 
 Immerse yourself in the whacking action! This screen showcases the gameplay with moles, score counter, timer, health icons, and other game elements.
 
 ### Screen 4: Game Over
 
-![Game Over](/path/to/screen4.png)
+<img width="1280" alt="Screenshot 2023-11-25 093003" src="https://github.com/dhruvil-sheth30/Whack-A-Mole/assets/140916941/f639a2a6-3f81-4741-8081-a7d427b4ff24">
+
 
 The game concludes, displaying your final score and the highest score achieved. You can choose to play again.
 
