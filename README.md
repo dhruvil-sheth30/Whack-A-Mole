@@ -8,7 +8,7 @@ Welcome to Whack-a-Mole, a digital rendition of the classic arcade game! This pr
 
 ### Screen 1: Game Logo and Creator Information
 
-![Game Logo](/path/to/screen1.png)
+![Game Logo](/assets/images/Screenshot 2023-11-25 092717.png)
 
 This screen introduces the game with its logo and provides information about the creator.
 
