@@ -1,4 +1,4 @@
-# Whack-a-Mole Game
+
 
 ## Project Overview
 
@@ -13,6 +13,7 @@ Welcome to Whack-a-Mole, a digital rendition of the classic arcade game! This pr
 This screen introduces the game with its logo and provides information about the creator.
 
 ### Screen 2: Instructions and User Info Form
+
 
 <img width="1280" alt="Screenshot 2023-11-25 092907" src="https://github.com/dhruvil-sheth30/Whack-A-Mole/assets/140916941/18107501-52e8-467f-854f-7b11ef90033f">
 
@@ -34,12 +35,12 @@ The game concludes, displaying your final score and the highest score achieved. 
 
 ## Why This Project?
 
-Recreating Whack-a-Mole allowed me to apply and enhance my skills in front-end development, and refresh the childhood memories.
+Recreating Whack-a-Mole allowed me to apply and enhance my front-end development skills and refresh my childhood memories.
 
 ## References
 
-- **YouTube Video:** [Title of the Video]([https://www.youtube.com/watch?v=example](https://youtu.be/D9ZfzXaCPuI?si=Vg48zeqxuN8Kh6dv))
-- **Git Repository:** [Link to the Repository]([https://github.com/example/repository](https://github.com/mart-anthony-stark/Whack-A-Mole))
+- **YouTube Video:** [Title of the Video](https://youtu.be/D9ZfzXaCPuI?si=Vg48zeqxuN8Kh6dv)
+- **Git Repository:** [Link to the Repository](https://github.com/mart-anthony-stark/Whack-A-Mole)
 - **Audio Credits:** Background music sourced from [Pixabay](https://pixabay.com/)
 - **Image Credits:** Images obtained through simple Google searches.
 - **Icon Credits:** Icons sourced from [Flaticon](https://www.flaticon.com/)
