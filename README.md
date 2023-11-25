@@ -1,4 +1,4 @@
-<img width="767" alt="Screenshot 2023-11-01 092908" src="https://github.com/dhruvil-sheth30/Whack-A-Mole/assets/140916941/24433158-0549-4f0d-a6da-638f78accce5"># Whack-a-Mole Game
+
 
 ## Project Overview
 
@@ -35,7 +35,7 @@ The game concludes, displaying your final score and the highest score achieved. 
 
 ## Why This Project?
 
-Recreating Whack-a-Mole allowed me to apply and enhance my skills in front-end development, and refresh the childhood memories.
+Recreating Whack-a-Mole allowed me to apply and enhance my front-end development skills and refresh my childhood memories.
 
 ## References
 
